@@ -1,0 +1,1208 @@
+[
+  {
+      "id": 0,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE01",
+          "course_name": "AIDS-II"
+      },
+      "room": "E203",
+      "instructor": {
+          "instructor_id": "ITF13",
+          "instructor_name": "Prof. Rohit Barve"
+      },
+      "meeting_time": {
+          "pid": "MTU6",
+          "time": "14:45 - 15:45",
+          "day": "Tuesday"
+      }
+  },
+  {
+      "id": 1,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE01",
+          "course_name": "AIDS-II"
+      },
+      "room": "E203",
+      "instructor": {
+          "instructor_id": "ITF13",
+          "instructor_name": "Prof. Rohit Barve"
+      },
+      "meeting_time": {
+          "pid": "MF04",
+          "time": "12:15 - 13:15",
+          "day": "Friday"
+      }
+  },
+  {
+      "id": 2,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE01",
+          "course_name": "AIDS-II"
+      },
+      "room": "E301",
+      "instructor": {
+          "instructor_id": "ITF13",
+          "instructor_name": "Prof. Rohit Barve"
+      },
+      "meeting_time": {
+          "pid": "MTH3",
+          "time": "11:15 - 12:15",
+          "day": "Thursday"
+      }
+  },
+  {
+      "id": 3,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE01",
+          "course_name": "AIDS-II"
+      },
+      "room": "E301",
+      "instructor": {
+          "instructor_id": "ITF13",
+          "instructor_name": "Prof. Rohit Barve"
+      },
+      "meeting_time": {
+          "pid": "MTH7",
+          "time": "15:45 - 16:45",
+          "day": "Thursday"
+      }
+  },
+  {
+      "id": 4,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE01",
+          "course_name": "AIDS-II"
+      },
+      "room": "E203",
+      "instructor": {
+          "instructor_id": "ITF13",
+          "instructor_name": "Prof. Rohit Barve"
+      },
+      "meeting_time": {
+          "pid": "MF03",
+          "time": "11:15 - 12:15",
+          "day": "Friday"
+      }
+  },
+  {
+      "id": 5,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE01",
+          "course_name": "AIDS-II"
+      },
+      "room": "E204",
+      "instructor": {
+          "instructor_id": "ITF13",
+          "instructor_name": "Prof. Rohit Barve"
+      },
+      "meeting_time": {
+          "pid": "MW03",
+          "time": "11:15 - 12:15",
+          "day": "Wednesday"
+      }
+  },
+  {
+      "id": 6,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE02",
+          "course_name": "IOE"
+      },
+      "room": "E303",
+      "instructor": {
+          "instructor_id": "ITF07",
+          "instructor_name": "Prof. Rasika Ransing"
+      },
+      "meeting_time": {
+          "pid": "MM03",
+          "time": "11:15 - 12:15",
+          "day": "Monday"
+      }
+  },
+  {
+      "id": 7,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE02",
+          "course_name": "IOE"
+      },
+      "room": "E101",
+      "instructor": {
+          "instructor_id": "ITF07",
+          "instructor_name": "Prof. Rasika Ransing"
+      },
+      "meeting_time": {
+          "pid": "MF02",
+          "time": "10:00 - 11:00",
+          "day": "Friday"
+      }
+  },
+  {
+      "id": 8,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE02",
+          "course_name": "IOE"
+      },
+      "room": "E303",
+      "instructor": {
+          "instructor_id": "ITF07",
+          "instructor_name": "Prof. Rasika Ransing"
+      },
+      "meeting_time": {
+          "pid": "MW05",
+          "time": "13:45 - 14:45",
+          "day": "Wednesday"
+      }
+  },
+  {
+      "id": 9,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE02",
+          "course_name": "IOE"
+      },
+      "room": "E303",
+      "instructor": {
+          "instructor_id": "ITF07",
+          "instructor_name": "Prof. Rasika Ransing"
+      },
+      "meeting_time": {
+          "pid": "MM01",
+          "time": "9:00 - 10:00",
+          "day": "Monday"
+      }
+  },
+  {
+      "id": 10,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE02",
+          "course_name": "IOE"
+      },
+      "room": "E203",
+      "instructor": {
+          "instructor_id": "ITF07",
+          "instructor_name": "Prof. Rasika Ransing"
+      },
+      "meeting_time": {
+          "pid": "MTH7",
+          "time": "15:45 - 16:45",
+          "day": "Thursday"
+      }
+  },
+  {
+      "id": 11,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE02",
+          "course_name": "IOE"
+      },
+      "room": "E204",
+      "instructor": {
+          "instructor_id": "ITF07",
+          "instructor_name": "Prof. Rasika Ransing"
+      },
+      "meeting_time": {
+          "pid": "MW03",
+          "time": "11:15 - 12:15",
+          "day": "Wednesday"
+      }
+  },
+  {
+      "id": 12,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE03",
+          "course_name": "STQA"
+      },
+      "room": "E204",
+      "instructor": {
+          "instructor_id": "ITF09",
+          "instructor_name": "Prof. Deepali Shrikhande"
+      },
+      "meeting_time": {
+          "pid": "MF07",
+          "time": "15:45 - 16:45",
+          "day": "Friday"
+      }
+  },
+  {
+      "id": 13,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE03",
+          "course_name": "STQA"
+      },
+      "room": "E204",
+      "instructor": {
+          "instructor_id": "ITF09",
+          "instructor_name": "Prof. Deepali Shrikhande"
+      },
+      "meeting_time": {
+          "pid": "MW01",
+          "time": "9:00 - 10:00",
+          "day": "Wednesday"
+      }
+  },
+  {
+      "id": 14,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE03",
+          "course_name": "STQA"
+      },
+      "room": "E204",
+      "instructor": {
+          "instructor_id": "ITF09",
+          "instructor_name": "Prof. Deepali Shrikhande"
+      },
+      "meeting_time": {
+          "pid": "MTH3",
+          "time": "11:15 - 12:15",
+          "day": "Thursday"
+      }
+  },
+  {
+      "id": 15,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE03",
+          "course_name": "STQA"
+      },
+      "room": "E303",
+      "instructor": {
+          "instructor_id": "ITF09",
+          "instructor_name": "Prof. Deepali Shrikhande"
+      },
+      "meeting_time": {
+          "pid": "MTH7",
+          "time": "15:45 - 16:45",
+          "day": "Thursday"
+      }
+  },
+  {
+      "id": 16,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE03",
+          "course_name": "STQA"
+      },
+      "room": "E101",
+      "instructor": {
+          "instructor_id": "ITF09",
+          "instructor_name": "Prof. Deepali Shrikhande"
+      },
+      "meeting_time": {
+          "pid": "MTU3",
+          "time": "11:15 - 12:15",
+          "day": "Tuesday"
+      }
+  },
+  {
+      "id": 17,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE03",
+          "course_name": "STQA"
+      },
+      "room": "E301",
+      "instructor": {
+          "instructor_id": "ITF09",
+          "instructor_name": "Prof. Deepali Shrikhande"
+      },
+      "meeting_time": {
+          "pid": "MM06",
+          "time": "14:45 - 15:45",
+          "day": "Monday"
+      }
+  },
+  {
+      "id": 18,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE04",
+          "course_name": "MIS"
+      },
+      "room": "E301",
+      "instructor": {
+          "instructor_id": "ITF01",
+          "instructor_name": "Prof. Vidya Chitre"
+      },
+      "meeting_time": {
+          "pid": "MTH5",
+          "time": "13:45 - 14:45",
+          "day": "Thursday"
+      }
+  },
+  {
+      "id": 19,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE04",
+          "course_name": "MIS"
+      },
+      "room": "E204",
+      "instructor": {
+          "instructor_id": "ITF01",
+          "instructor_name": "Prof. Vidya Chitre"
+      },
+      "meeting_time": {
+          "pid": "MTU1",
+          "time": "9:00 - 10:00",
+          "day": "Tuesday"
+      }
+  },
+  {
+      "id": 20,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE04",
+          "course_name": "MIS"
+      },
+      "room": "E204",
+      "instructor": {
+          "instructor_id": "ITF01",
+          "instructor_name": "Prof. Vidya Chitre"
+      },
+      "meeting_time": {
+          "pid": "MTU2",
+          "time": "10:00 - 11:00",
+          "day": "Tuesday"
+      }
+  },
+  {
+      "id": 21,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE04",
+          "course_name": "MIS"
+      },
+      "room": "E301",
+      "instructor": {
+          "instructor_id": "ITF01",
+          "instructor_name": "Prof. Vidya Chitre"
+      },
+      "meeting_time": {
+          "pid": "MW06",
+          "time": "14:45 - 15:45",
+          "day": "Wednesday"
+      }
+  },
+  {
+      "id": 22,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE05",
+          "course_name": "IRS"
+      },
+      "room": "E101",
+      "instructor": {
+          "instructor_id": "ITHOD",
+          "instructor_name": "Prof. Vipul Dalal"
+      },
+      "meeting_time": {
+          "pid": "MTU5",
+          "time": "13:45 - 14:45",
+          "day": "Tuesday"
+      }
+  },
+  {
+      "id": 23,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE05",
+          "course_name": "IRS"
+      },
+      "room": "E303",
+      "instructor": {
+          "instructor_id": "ITHOD",
+          "instructor_name": "Prof. Vipul Dalal"
+      },
+      "meeting_time": {
+          "pid": "MTH3",
+          "time": "11:15 - 12:15",
+          "day": "Thursday"
+      }
+  },
+  {
+      "id": 24,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE05",
+          "course_name": "IRS"
+      },
+      "room": "E301",
+      "instructor": {
+          "instructor_id": "ITHOD",
+          "instructor_name": "Prof. Vipul Dalal"
+      },
+      "meeting_time": {
+          "pid": "MTU3",
+          "time": "11:15 - 12:15",
+          "day": "Tuesday"
+      }
+  },
+  {
+      "id": 25,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE05",
+          "course_name": "IRS"
+      },
+      "room": "E301",
+      "instructor": {
+          "instructor_id": "ITHOD",
+          "instructor_name": "Prof. Vipul Dalal"
+      },
+      "meeting_time": {
+          "pid": "MF03",
+          "time": "11:15 - 12:15",
+          "day": "Friday"
+      }
+  },
+  {
+      "id": 26,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE06",
+          "course_name": "AR-VR"
+      },
+      "room": "E301",
+      "instructor": {
+          "instructor_id": "ITF10",
+          "instructor_name": "Prof. Samuel Jacob"
+      },
+      "meeting_time": {
+          "pid": "MM04",
+          "time": "12:15 - 13:15",
+          "day": "Monday"
+      }
+  },
+  {
+      "id": 27,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE06",
+          "course_name": "AR-VR"
+      },
+      "room": "E303",
+      "instructor": {
+          "instructor_id": "ITF10",
+          "instructor_name": "Prof. Samuel Jacob"
+      },
+      "meeting_time": {
+          "pid": "MTH5",
+          "time": "13:45 - 14:45",
+          "day": "Thursday"
+      }
+  },
+  {
+      "id": 28,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE06",
+          "course_name": "AR-VR"
+      },
+      "room": "E301",
+      "instructor": {
+          "instructor_id": "ITF10",
+          "instructor_name": "Prof. Samuel Jacob"
+      },
+      "meeting_time": {
+          "pid": "MTU7",
+          "time": "15:45 - 16:45",
+          "day": "Tuesday"
+      }
+  },
+  {
+      "id": 29,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE06",
+          "course_name": "AR-VR"
+      },
+      "room": "E301",
+      "instructor": {
+          "instructor_id": "ITF10",
+          "instructor_name": "Prof. Samuel Jacob"
+      },
+      "meeting_time": {
+          "pid": "MM05",
+          "time": "13:45 - 14:45",
+          "day": "Monday"
+      }
+  },
+  {
+      "id": 30,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE07",
+          "course_name": "IS"
+      },
+      "room": "E203",
+      "instructor": {
+          "instructor_id": "ITF04",
+          "instructor_name": "Prof. Vinita Bhandiwad"
+      },
+      "meeting_time": {
+          "pid": "MW01",
+          "time": "9:00 - 10:00",
+          "day": "Wednesday"
+      }
+  },
+  {
+      "id": 31,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE07",
+          "course_name": "IS"
+      },
+      "room": "E301",
+      "instructor": {
+          "instructor_id": "ITF04",
+          "instructor_name": "Prof. Vinita Bhandiwad"
+      },
+      "meeting_time": {
+          "pid": "MW02",
+          "time": "10:00 - 11:00",
+          "day": "Wednesday"
+      }
+  },
+  {
+      "id": 32,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE07",
+          "course_name": "IS"
+      },
+      "room": "E303",
+      "instructor": {
+          "instructor_id": "ITF04",
+          "instructor_name": "Prof. Vinita Bhandiwad"
+      },
+      "meeting_time": {
+          "pid": "MTH2",
+          "time": "10:00 - 11:00",
+          "day": "Thursday"
+      }
+  },
+  {
+      "id": 33,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BE07",
+          "course_name": "IS"
+      },
+      "room": "E203",
+      "instructor": {
+          "instructor_id": "ITF04",
+          "instructor_name": "Prof. Vinita Bhandiwad"
+      },
+      "meeting_time": {
+          "pid": "MF06",
+          "time": "14:45 - 15:45",
+          "day": "Friday"
+      }
+  },
+  {
+      "id": 34,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BEL04",
+          "course_name": "ROSP"
+      },
+      "room": "L7-B",
+      "instructor": {
+          "instructor_id": "ITF14",
+          "instructor_name": "Prof. Akshay Loke"
+      },
+      "meeting_time": {
+          "pid": "MW06",
+          "time": "14:45 - 15:45",
+          "day": "Wednesday"
+      }
+  },
+  {
+      "id": 35,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BEL04",
+          "course_name": "ROSP"
+      },
+      "room": "L7-C",
+      "instructor": {
+          "instructor_id": "ITF14",
+          "instructor_name": "Prof. Akshay Loke"
+      },
+      "meeting_time": {
+          "pid": "MM01",
+          "time": "9:00 - 10:00",
+          "day": "Monday"
+      }
+  },
+  {
+      "id": 36,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BEL04",
+          "course_name": "ROSP"
+      },
+      "room": "E203",
+      "instructor": {
+          "instructor_id": "ITF14",
+          "instructor_name": "Prof. Akshay Loke"
+      },
+      "meeting_time": {
+          "pid": "MM06",
+          "time": "14:45 - 15:45",
+          "day": "Monday"
+      }
+  },
+  {
+      "id": 37,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BEL04",
+          "course_name": "ROSP"
+      },
+      "room": "L5-A",
+      "instructor": {
+          "instructor_id": "ITF14",
+          "instructor_name": "Prof. Akshay Loke"
+      },
+      "meeting_time": {
+          "pid": "MW02",
+          "time": "10:00 - 11:00",
+          "day": "Wednesday"
+      }
+  },
+  {
+      "id": 38,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BEL03",
+          "course_name": "SAD LAB"
+      },
+      "room": "CC02",
+      "instructor": {
+          "instructor_id": "ITF09",
+          "instructor_name": "Prof. Deepali Shrikhande"
+      },
+      "meeting_time": {
+          "pid": "MF04",
+          "time": "12:15 - 13:15",
+          "day": "Friday"
+      }
+  },
+  {
+      "id": 39,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BEL03",
+          "course_name": "SAD LAB"
+      },
+      "room": "E303",
+      "instructor": {
+          "instructor_id": "ITF09",
+          "instructor_name": "Prof. Deepali Shrikhande"
+      },
+      "meeting_time": {
+          "pid": "MTU1",
+          "time": "9:00 - 10:00",
+          "day": "Tuesday"
+      }
+  },
+  {
+      "id": 40,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BEL03",
+          "course_name": "SAD LAB"
+      },
+      "room": "E303",
+      "instructor": {
+          "instructor_id": "ITF09",
+          "instructor_name": "Prof. Deepali Shrikhande"
+      },
+      "meeting_time": {
+          "pid": "MW07",
+          "time": "15:45 - 16:45",
+          "day": "Wednesday"
+      }
+  },
+  {
+      "id": 41,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BEL03",
+          "course_name": "SAD LAB"
+      },
+      "room": "E204",
+      "instructor": {
+          "instructor_id": "ITF09",
+          "instructor_name": "Prof. Deepali Shrikhande"
+      },
+      "meeting_time": {
+          "pid": "MTU6",
+          "time": "14:45 - 15:45",
+          "day": "Tuesday"
+      }
+  },
+  {
+      "id": 42,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BEL02",
+          "course_name": "IOE"
+      },
+      "room": "L5-C",
+      "instructor": {
+          "instructor_id": "ITF07",
+          "instructor_name": "Prof. Rasika Ransing"
+      },
+      "meeting_time": {
+          "pid": "MTH1",
+          "time": "9:00 - 10:00",
+          "day": "Thursday"
+      }
+  },
+  {
+      "id": 43,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BEL02",
+          "course_name": "IOE"
+      },
+      "room": "E101",
+      "instructor": {
+          "instructor_id": "ITF07",
+          "instructor_name": "Prof. Rasika Ransing"
+      },
+      "meeting_time": {
+          "pid": "MM07",
+          "time": "15:45 - 16:45",
+          "day": "Monday"
+      }
+  },
+  {
+      "id": 44,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BEL02",
+          "course_name": "IOE"
+      },
+      "room": "L11-A",
+      "instructor": {
+          "instructor_id": "ITF07",
+          "instructor_name": "Prof. Rasika Ransing"
+      },
+      "meeting_time": {
+          "pid": "MF03",
+          "time": "11:15 - 12:15",
+          "day": "Friday"
+      }
+  },
+  {
+      "id": 45,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BEL02",
+          "course_name": "IOE"
+      },
+      "room": "E203",
+      "instructor": {
+          "instructor_id": "ITF07",
+          "instructor_name": "Prof. Rasika Ransing"
+      },
+      "meeting_time": {
+          "pid": "MTU1",
+          "time": "9:00 - 10:00",
+          "day": "Tuesday"
+      }
+  },
+  {
+      "id": 46,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BEL01",
+          "course_name": "DS LAB"
+      },
+      "room": "L5-B",
+      "instructor": {
+          "instructor_id": "ITF15",
+          "instructor_name": "Prof. Shashikant Mahajan"
+      },
+      "meeting_time": {
+          "pid": "MW04",
+          "time": "12:15 - 13:15",
+          "day": "Wednesday"
+      }
+  },
+  {
+      "id": 47,
+      "section": "TE-INFT",
+      "course": {
+          "course_number": "BEL01",
+          "course_name": "DS LAB"
+      },
+      "room": "E301",
+      "instructor": {
+          "instructor_id": "ITF15",
+          "instructor_name": "Prof. Shashikant Mahajan"
+      },
+      "meeting_time": {
+          "pid": "MF02",
+          "time": "10:00 - 11:00",
+          "day": "Friday"
+      }
+  },
+  {
+      "id": 48,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BE09",
+          "course_name": "Blockchain & DLT"
+      },
+      "room": "E101",
+      "instructor": {
+          "instructor_id": "ITF03",
+          "instructor_name": "Prof. Dilip Motwani"
+      },
+      "meeting_time": {
+          "pid": "MTU3",
+          "time": "11:15 - 12:15",
+          "day": "Tuesday"
+      }
+  },
+  {
+      "id": 49,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BE09",
+          "course_name": "Blockchain & DLT"
+      },
+      "room": "E204",
+      "instructor": {
+          "instructor_id": "ITF03",
+          "instructor_name": "Prof. Dilip Motwani"
+      },
+      "meeting_time": {
+          "pid": "MTU5",
+          "time": "13:45 - 14:45",
+          "day": "Tuesday"
+      }
+  },
+  {
+      "id": 50,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BE09",
+          "course_name": "Blockchain & DLT"
+      },
+      "room": "E101",
+      "instructor": {
+          "instructor_id": "ITF03",
+          "instructor_name": "Prof. Dilip Motwani"
+      },
+      "meeting_time": {
+          "pid": "MTU7",
+          "time": "15:45 - 16:45",
+          "day": "Tuesday"
+      }
+  },
+  {
+      "id": 51,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BE09",
+          "course_name": "Blockchain & DLT"
+      },
+      "room": "E204",
+      "instructor": {
+          "instructor_id": "ITF03",
+          "instructor_name": "Prof. Dilip Motwani"
+      },
+      "meeting_time": {
+          "pid": "MF07",
+          "time": "15:45 - 16:45",
+          "day": "Friday"
+      }
+  },
+  {
+      "id": 52,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BE09",
+          "course_name": "Blockchain & DLT"
+      },
+      "room": "E204",
+      "instructor": {
+          "instructor_id": "ITF03",
+          "instructor_name": "Prof. Dilip Motwani"
+      },
+      "meeting_time": {
+          "pid": "MTH1",
+          "time": "9:00 - 10:00",
+          "day": "Thursday"
+      }
+  },
+  {
+      "id": 53,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BE09",
+          "course_name": "Blockchain & DLT"
+      },
+      "room": "E204",
+      "instructor": {
+          "instructor_id": "ITF03",
+          "instructor_name": "Prof. Dilip Motwani"
+      },
+      "meeting_time": {
+          "pid": "MW01",
+          "time": "9:00 - 10:00",
+          "day": "Wednesday"
+      }
+  },
+  {
+      "id": 54,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BE10",
+          "course_name": "BDA"
+      },
+      "room": "E303",
+      "instructor": {
+          "instructor_id": "ITF11",
+          "instructor_name": "Prof. Santosh Tamboli"
+      },
+      "meeting_time": {
+          "pid": "MTH3",
+          "time": "11:15 - 12:15",
+          "day": "Thursday"
+      }
+  },
+  {
+      "id": 55,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BE10",
+          "course_name": "BDA"
+      },
+      "room": "E203",
+      "instructor": {
+          "instructor_id": "ITF11",
+          "instructor_name": "Prof. Santosh Tamboli"
+      },
+      "meeting_time": {
+          "pid": "MTH5",
+          "time": "13:45 - 14:45",
+          "day": "Thursday"
+      }
+  },
+  {
+      "id": 56,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BE10",
+          "course_name": "BDA"
+      },
+      "room": "E204",
+      "instructor": {
+          "instructor_id": "ITF11",
+          "instructor_name": "Prof. Santosh Tamboli"
+      },
+      "meeting_time": {
+          "pid": "MM03",
+          "time": "11:15 - 12:15",
+          "day": "Monday"
+      }
+  },
+  {
+      "id": 57,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BE10",
+          "course_name": "BDA"
+      },
+      "room": "E303",
+      "instructor": {
+          "instructor_id": "ITF11",
+          "instructor_name": "Prof. Santosh Tamboli"
+      },
+      "meeting_time": {
+          "pid": "MF05",
+          "time": "13:45 - 14:45",
+          "day": "Friday"
+      }
+  },
+  {
+      "id": 58,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BE10",
+          "course_name": "BDA"
+      },
+      "room": "E303",
+      "instructor": {
+          "instructor_id": "ITF11",
+          "instructor_name": "Prof. Santosh Tamboli"
+      },
+      "meeting_time": {
+          "pid": "MM07",
+          "time": "15:45 - 16:45",
+          "day": "Monday"
+      }
+  },
+  {
+      "id": 59,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BE10",
+          "course_name": "BDA"
+      },
+      "room": "E203",
+      "instructor": {
+          "instructor_id": "ITF11",
+          "instructor_name": "Prof. Santosh Tamboli"
+      },
+      "meeting_time": {
+          "pid": "MW05",
+          "time": "13:45 - 14:45",
+          "day": "Wednesday"
+      }
+  },
+  {
+      "id": 60,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BE11",
+          "course_name": "UI/UX"
+      },
+      "room": "E204",
+      "instructor": {
+          "instructor_id": "ITF16",
+          "instructor_name": "Prof. Sushopati Gawade"
+      },
+      "meeting_time": {
+          "pid": "MTH1",
+          "time": "9:00 - 10:00",
+          "day": "Thursday"
+      }
+  },
+  {
+      "id": 61,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BE11",
+          "course_name": "UI/UX"
+      },
+      "room": "E303",
+      "instructor": {
+          "instructor_id": "ITF16",
+          "instructor_name": "Prof. Sushopati Gawade"
+      },
+      "meeting_time": {
+          "pid": "MM06",
+          "time": "14:45 - 15:45",
+          "day": "Monday"
+      }
+  },
+  {
+      "id": 62,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BE11",
+          "course_name": "UI/UX"
+      },
+      "room": "E301",
+      "instructor": {
+          "instructor_id": "ITF16",
+          "instructor_name": "Prof. Sushopati Gawade"
+      },
+      "meeting_time": {
+          "pid": "MF07",
+          "time": "15:45 - 16:45",
+          "day": "Friday"
+      }
+  },
+  {
+      "id": 63,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BEL05",
+          "course_name": "Blockchain & DLT"
+      },
+      "room": "CC01",
+      "instructor": {
+          "instructor_id": "ITF03",
+          "instructor_name": "Prof. Dilip Motwani"
+      },
+      "meeting_time": {
+          "pid": "MTU2",
+          "time": "10:00 - 11:00",
+          "day": "Tuesday"
+      }
+  },
+  {
+      "id": 64,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BEL05",
+          "course_name": "Blockchain & DLT"
+      },
+      "room": "L5-A",
+      "instructor": {
+          "instructor_id": "ITF03",
+          "instructor_name": "Prof. Dilip Motwani"
+      },
+      "meeting_time": {
+          "pid": "MTU7",
+          "time": "15:45 - 16:45",
+          "day": "Tuesday"
+      }
+  },
+  {
+      "id": 65,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BEL05",
+          "course_name": "Blockchain & DLT"
+      },
+      "room": "CC01",
+      "instructor": {
+          "instructor_id": "ITF03",
+          "instructor_name": "Prof. Dilip Motwani"
+      },
+      "meeting_time": {
+          "pid": "MW03",
+          "time": "11:15 - 12:15",
+          "day": "Wednesday"
+      }
+  },
+  {
+      "id": 66,
+      "section": "BE-INFT",
+      "course": {
+          "course_number": "BEL05",
+          "course_name": "Blockchain & DLT"
+      },
+      "room": "CC03",
+      "instructor": {
+          "instructor_id": "ITF03",
+          "instructor_name": "Prof. Dilip Motwani"
+      },
+      "meeting_time": {
+          "pid": "MF01",
+          "time": "9:00 - 10:00",
+          "day": "Friday"
+      }
+  }
+]
